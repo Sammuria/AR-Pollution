@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Main.unity
+    guid: b47327773632de74a96254961d072a51
+  - enabled: 0
+    path: Assets/Scenes/part 3.unity
+    guid: 19bf9d57d185bc849ac8b52b6bf5fa50
+  - enabled: 0
+    path: Assets/Scenes/Draft-20-10-2020.unity
+    guid: 47a575fd892e9e34a96c7dec694dac8f
+  - enabled: 0
+    path: Assets/Scenes/Cam testing.unity
+    guid: ec979c10b890d1d4da12509c1c4ccf18
+  - enabled: 1
+    path: Assets/Scenes/Draft-21-10-2020.unity
+    guid: 69359a73463ee8244918dd5e0ce37cc2
